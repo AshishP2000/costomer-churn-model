@@ -22,7 +22,7 @@ We have some numerical features, some categorical features.
 
 We have 10000 rows with 13 features and 1 target variable, Every row tells us different customer details and whether they churned or not after 2 months of observation.
 
-# PERFORMANCE METRIC
+# PERFORMANCE METRICS
 It is a simple classification problem.
 
 Other than that we will use accuracy(after checking if data is balanced or not), here the important thing is we care equally about Precision and Recall because we care equally about False Positives and False Negatives.
